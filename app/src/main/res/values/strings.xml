@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ticker_robin_sample</string>
+    <string name="button_app">Run service</string>
+</resources>
