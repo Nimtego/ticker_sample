@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
                     handler.postDelayed(this, 1000);
                 }
                 else
-                    tickerView.setText("");
+                    tickerView.setText("0");
             }
         }));
     }
